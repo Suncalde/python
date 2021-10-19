@@ -1,5 +1,5 @@
 <h1>About</h1>
-<hr>
+
 <p>In this repo I will upload all my Python projects and progress from 100 Days of Code with Dr. Angela Yu</p>
 <ol>
   <li>Band Name Generator</li>
